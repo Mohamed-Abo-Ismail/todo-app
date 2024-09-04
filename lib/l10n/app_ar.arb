@@ -1,0 +1,13 @@
+{
+"app_title" : "المهام",
+"task_list" : "قايمه المهام",
+"settings" : "الاعدادات",
+"language" : "اللغة",
+"english" : "الانجلزية",
+"arabic" : "العربية",
+"mode" : "الوضع",
+"light" : "مضي",
+"dark" : "مظلم",
+"add_new_task" : "اضف مهام جديدة",
+"select_date" : "اختر التاريخ"
+}
